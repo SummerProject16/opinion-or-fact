@@ -1,0 +1,17 @@
+stanford-postagger/
+.git/
+.idea/
+stanford-parser-full-2015-12-09.zip
+stanford-parser/stanford-parser/
+stanford-parser/stanford-parser.jar
+CMUTweetTagger/ark-tweet-nlp-0.3.2.jar
+CMUTweetTagger/data/
+CMUTweetTagger/ark-tweet-nlp/
+CMUTweetTagger/docs/
+CMUTweetTagger/examples/
+CMUTweetTagger/lib/
+CMUTweetTagger/scripts/
+CMUTweetTagger/src/
+CMUTweetTagger/test/
+CMUTweetTagger/tweets/
+CMUTweetTagger/.idea/
